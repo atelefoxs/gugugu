@@ -126,10 +126,10 @@ body {
   position: absolute;
   width: 80px;
   top: -70px;
-  left: 55%;
+  left: 60%;
   /* 等比例扩大图片到2倍 */
-  /* transform: scale(1.1); */
-  transform: translateX(50px) scale(1.1);
+  transform: scale(1.1);
+/*   transform: translateX(50px) scale(1.1); */
 }
 
 .baloons img {
